@@ -1,3 +1,15 @@
-# 100DaysOfCode
-Repository dedicated to my #100DaysOfCode Challenge
-![kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6 3474912915314089881178](https://user-images.githubusercontent.com/118321568/209258314-5eb5c510-dd98-4bcc-b8a9-729d9f7f56ab.jpg)
+# My **100DaysOfCode** Challenge
+
+  Matheus Dantas </> <br>
+ *Computer Scientist*
+
+#### Repository dedicated to my **#100DaysOfCode** Challenge 🐍🔥
+
+**Timeline**
+-------------------------------------------------------------------------------
+Days📌  |Date 📅    |Lessons 🧠                           |Tasks done 🛠 
+--------|------------|-------------------------------------|-------------------
+Day1    |Dec 21/2022 |Working with variables to manage data| Band Name Generator
+Day2    |Dec 22/2022 |Data type and string manipulation    | BMI Calculator / Tip Calculator / Life in a Weeks
+Day3    |Dec 23/2022 |                                     |
+                                
