@@ -27,9 +27,9 @@ if size == "S" and add_pepperoni == "Y" and extra_cheese == "Y":
     if size == "S" and add_pepperoni == "N" and extra_cheese == "N":
         bill = S
         print(f"Your final bill is: ${bill}.")
-        if size == "S" and add_pepperoni == "Y" and extra_cheese == "N":
-            bill = S + pepperoniSmall
-            print(f"Your final bill is: ${bill}.")
+    else:
+        bill = S + pepperoniSmall
+        print(f"Your final bill is: ${bill}.")
 
 elif size == "M" and add_pepperoni == "Y" and extra_cheese == "Y":
     bill = M + pepperoniMedio + cheese
