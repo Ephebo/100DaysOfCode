@@ -14,4 +14,4 @@ Day2    |Dec 22/2022 |Data type and string manipulation    | BMI Calculator / Ti
 Day3    |Dec 23/2022 |Control Flow and Logical operators   | FlowChart - intro / Odd and Even 
 |       |Dec 24/2022 |                                     | BMI 2.0 / FlowChart / Condictionals exercises
 |       |Dec 25/2022 |                                     | Leap Year
-|       |Dec 26      |                                     | Pizza Order
+|       |Dec 26/2022 |                                     | Pizza Order
