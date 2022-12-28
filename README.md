@@ -1,7 +1,7 @@
 # My **100DaysOfCode** Challenge
 
   Matheus Dantas </> <br>
- *Computer Scientist*
+ *Pythonista beginner*
 
 #### Repository dedicated to my **#100DaysOfCode** Challenge 🐍🔥
 
