@@ -15,5 +15,5 @@ Day3    |Dec 23/2022 |Control Flow and Logical operators   | FlowChart - intro /
 Day3.1  |Dec 24/2022 |                                     | BMI 2.0 / FlowChart / Condictionals exercises
 Day3.2  |Dec 25/2022 |                                     | Leap Year
 Day3.3  |Dec 26/2022 |                                     | Pizza Order
-Day3.4  |Dec 27/2022 |                                     | Love calculator
-Day4    |Dec 28/2022 |                                     | Treasure Island
+Day3.4  |Dec 27/2022 |                                     | Love calculator / Treasure Island
+Day4    |Dec 28/2022 |Randomisation and Python Lists       | 
