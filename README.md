@@ -17,5 +17,5 @@ Day3.2  |Dec 25/2022 |                                     | Leap Year
 Day3.3  |Dec 26/2022 |                                     | Pizza Order
 Day3.4  |Dec 27/2022 |                                     | Love Calculator
 Day3.5  |Dec 28/2022 |           START REVIEW              | Start Review 
-Day3.6  |Dec 29/2022 |           END REVIEW                | End Review / Treasure Island
-Day4    |Dec 30/2022 |                                     |
+Day3.6  |Dec 29/2022 |           END REVIEW                | End Review
+Day3.7  |Dec 30/2022 |                                     | Treasure Island
