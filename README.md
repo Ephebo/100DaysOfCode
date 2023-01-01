@@ -19,4 +19,5 @@ Day3.4  |Dec 27/2022 |                                     | Love Calculator
 Day3.5  |Dec 28/2022 |           START REVIEW              | Start Review 
 Day3.6  |Dec 29/2022 |           END REVIEW                | End Review / ASCII art tool
 Day3.7  |Dec 30/2022 |                                     | Treasure Island / The lighthouse
-Day4    |Dec 31/2022 |Randomisation and Python Lists       |
+Day4    |Dec 31/2022 |Randomisation and Python Lists       | Heads or Tails
+Day4    |Jan 01/2022 |                                     | 
