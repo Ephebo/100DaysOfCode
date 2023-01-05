@@ -1,7 +1,7 @@
 # My **100DaysOfCode** Challenge
 
   Matheus Dantas </> <br>
- *Pythonista*
+ *Pythonista path!*
 
 #### Repository dedicated to my **#100DaysOfCode** Challenge 🐍🔥
 
