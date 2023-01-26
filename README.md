@@ -21,4 +21,5 @@ Day3.6  |Dec 29/2022 |           END REVIEW                | End Review / ASCII 
 Day3.7  |Dec 30/2022 |                                     | Treasure Island / The lighthouse
 Day4    |Dec 31/2022 |Randomisation and Python Lists       | Heads or Tails
 Day4.1  |Jan 20/2022 |                                     | Banker Roulette 
+Day4.2  |Jan 26/2022 |                                     | Treasure Map
   
