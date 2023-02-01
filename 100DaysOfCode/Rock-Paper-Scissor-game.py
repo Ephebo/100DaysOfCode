@@ -1,3 +1,4 @@
+
 from random import randint
 
 rock = '''
@@ -38,8 +39,8 @@ list_of_computerChoices = all_choices[randint(0,2)]
 userChoices = input("Digite 0 para Pedra, 1 para Papel e 2 para Tesoura: ")
 list_of_userChoices  = [rock,paper,scissors]
 
-print("Your choice:",list_of_userChoices[int(userChoices)])
-print("choice of computer: ",list_of_computerChoices)
+print("Sua Escolha: ",list_of_userChoices[int(userChoices)])
+print("Escolha do Computador: ",list_of_computerChoices)
 
 if userChoices == "0" and list_of_computerChoices == scissors:
     print("Você ganhou!")
