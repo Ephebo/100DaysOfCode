@@ -25,5 +25,6 @@ Day4.2  |Jan 26/2022 |                                     | Treasure Map
 Day4.3  |Jan 31/2022 |                                     | Rock-Paper-Scissor  Game
 Day5    |feb 16/2022 |    Arithmetic Mean with for loops   | Arithmetic Mean / highest score
 Day5.1  |feb 17/2022 |          Carl Gauss calc            | sum of all the even numbers from 1 to 100.
-Day5.2  |feb 18/2022 |                                     | 
+Day5.2  |feb 18/2022 |                                     | FizzBuzz interview
+Day5.3  |feb 19/2022 |                                     | 
   
