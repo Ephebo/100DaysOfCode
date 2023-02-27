@@ -23,7 +23,7 @@ for each_number in range(1,n+1):
     if count % 5 == 0 and count % 3 == 0:
       print("FizzBuzz")    
       # se o número for divisível por 5 e 3, print'fizzBuzz'.
-      # objetivo é iterar todos os múltiplos de 5 e 3      
+      # objetivo é iterar todos os múltiplos de 5 e 3, ou seja, todos os números menos 5 e 3      
       
     elif count % 5 == 0:
       print("Buzz")
