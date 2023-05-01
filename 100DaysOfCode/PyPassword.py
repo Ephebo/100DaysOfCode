@@ -3,7 +3,7 @@
 
 🔑 Script para gerar senhas com base em critérios do usuário.
 
-Algoritimo usado para selecionar itens de lista, randomizalos e colocá-los em ordem.
+Algoritmo usado para selecionar itens de lista, randomizalos e colocá-los em ordem.
 
 Cria-se uma variável str vazia que irá armazenar os itens,
 em seguida, o uso do for loop para itenizar a quantidade de vezes que tudo vai acontecer para a variável i,
