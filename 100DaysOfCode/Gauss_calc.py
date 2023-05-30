@@ -4,4 +4,4 @@ n = 0
 for i in range(0,101):
   if i % 2 == 0:
     n += i
-print(f"A soma dos números páres entre 1 e 100: {n}")
+print(f"A soma dos números pares entre 1 e 100: {n}")
